@@ -1,1 +1,1 @@
-# Max Product Artwork
+# Max Product Art
