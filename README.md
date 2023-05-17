@@ -1,1 +1,1 @@
-# maxproductposter
+# Max Product Artwork
